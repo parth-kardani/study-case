@@ -1,0 +1,62 @@
+.Mobilenet{
+    font-size:30px
+}
+
+.heading_div2
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+  float:right;
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: skyblue;
+    line-height: 3;
+    text-align: center;
+    color:yellow;
+  }
+
+
+
+
+.div_1{
+    background-color: darkseagreen;
+    height:500px; 
+    width:850px;
+}
+.happy{
+    float:initial;
+}
+
+.tissue{
+    width:250px;
+    height:230px;
+    float:left;
+    
+}
+
+.ten{
+    font-size: 50px;
+    float: right;
+}
+
+
+
+.nice{
+
+
+font-size:30px;
+}
